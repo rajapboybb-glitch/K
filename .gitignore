@@ -1,0 +1,4 @@
+.env
+anime.db
+__pycache__/
+*.pyc
